@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0E3C98E1-C8D8-1C5E-3617-3F2282765C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateIsometricToolkit", "UltimateIsometricToolkit.csproj", "{2CED28F0-6BEE-0FC2-7F1A-21E7A56D3B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{AA463F5B-B99C-0F47-8766-79E65A8E56CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3C98E1-C8D8-1C5E-3617-3F2282765C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3C98E1-C8D8-1C5E-3617-3F2282765C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3C98E1-C8D8-1C5E-3617-3F2282765C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3C98E1-C8D8-1C5E-3617-3F2282765C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CED28F0-6BEE-0FC2-7F1A-21E7A56D3B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CED28F0-6BEE-0FC2-7F1A-21E7A56D3B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CED28F0-6BEE-0FC2-7F1A-21E7A56D3B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CED28F0-6BEE-0FC2-7F1A-21E7A56D3B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA463F5B-B99C-0F47-8766-79E65A8E56CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA463F5B-B99C-0F47-8766-79E65A8E56CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA463F5B-B99C-0F47-8766-79E65A8E56CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA463F5B-B99C-0F47-8766-79E65A8E56CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
